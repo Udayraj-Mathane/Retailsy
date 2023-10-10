@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sound &#8211; Retailsy</title>
+	<atom:link href="https://udayraj-mathane.github.io/Retailsy/product-tag/sound/feed/" rel="self" type="application/rss+xml" />
+	<link>https://udayraj-mathane.github.io/Retailsy</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Oct 2023 06:04:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://udayraj-mathane.github.io/Retailsy/wp-content/uploads/2023/10/footerlogo-1.png</url>
+	<title>Sound &#8211; Retailsy</title>
+	<link>https://udayraj-mathane.github.io/Retailsy</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Headphone</title>
+		<link>https://udayraj-mathane.github.io/Retailsy/product/headphone/</link>
+					<comments>https://udayraj-mathane.github.io/Retailsy/product/headphone/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 06:04:24 +0000</pubDate>
+				<guid isPermaLink="false">https://udayraj-mathane.github.io/Retailsy/?post_type=product#038;p=254</guid>
+
+					<description><![CDATA[Description Over-the-ear Wireless Headphones with Stereo Sound &#38; Bass. Mic Sensitivity: -42dB±3dB On-the earcap multi-function buttons allow calls &#38; music control for a hands-free experience. Speaker Impedance: 32Ω Bluetooth 5.0;]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Over-the-ear Wireless Headphones with Stereo Sound &amp; Bass. Mic Sensitivity: -42dB±3dB</span></li>
+<li><span class="a-list-item">On-the earcap multi-function buttons allow calls &amp; music control for a hands-free experience. Speaker Impedance: 32Ω</span></li>
+<li><span class="a-list-item">Bluetooth 5.0; 12 Hours Music Play-time; 10 Hours of Talk-time; 2 Hours Charging Time; 500 Hours of Standby-time. Speaker Sensitivity: 105dB±3dB</span></li>
+<li><span class="a-list-item">Comfort-fit; Lightweight; 10m Wireless range; 400mAh Battery, Aux Port Enabled; Micro USB Charging Cable Provided</span></li>
+<li><span class="a-list-item">Enjoy true and pure stereo sound quality from large 40mm speakers with superior output. Get the best deep bass and accurate notes with these Bluetooth headphones</span></li>
+<li><span class="a-list-item">Country of Origin: China</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://udayraj-mathane.github.io/Retailsy/product/headphone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

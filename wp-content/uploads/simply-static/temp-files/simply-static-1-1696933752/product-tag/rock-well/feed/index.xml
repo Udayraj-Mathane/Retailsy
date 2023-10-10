@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rock well &#8211; Retailsy</title>
+	<atom:link href="https://udayraj-mathane.github.io/Retailsy/product-tag/rock-well/feed/" rel="self" type="application/rss+xml" />
+	<link>https://udayraj-mathane.github.io/Retailsy</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Oct 2023 09:26:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://udayraj-mathane.github.io/Retailsy/wp-content/uploads/2023/10/footerlogo-1.png</url>
+	<title>Rock well &#8211; Retailsy</title>
+	<link>https://udayraj-mathane.github.io/Retailsy</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wireless Speaker</title>
+		<link>https://udayraj-mathane.github.io/Retailsy/product/wireless-speaker/</link>
+					<comments>https://udayraj-mathane.github.io/Retailsy/product/wireless-speaker/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 04:59:13 +0000</pubDate>
+				<guid isPermaLink="false">https://udayraj-mathane.github.io/Retailsy/?post_type=product#038;p=216</guid>
+
+					<description><![CDATA[<h2></h2>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">The all-new Echo delivers premium sound (powered by Dolby) and delivers clear highs, dynamic mids, and deep bass for rich, detailed sound that adapts to any room.</span></li>
+ 	<li><span class="a-list-item">Hands-free music control: Stream millions of songs in your favorite language from Amazon Prime Music, Spotify, JioSaavn, Gaana, or Apple Music</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h2></h2>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The all-new Echo delivers premium sound (powered by Dolby) and delivers clear highs, dynamic mids, and deep bass for rich, detailed sound that adapts to any room.</span></li>
+<li><span class="a-list-item">Hands-free music control: Stream millions of songs in your favorite language from Amazon Prime Music, Spotify, JioSaavn, Gaana, or Apple Music</span></li>
+<li><span class="a-list-item">Versatile usage: use Echo as a standalone speaker or connect it to other speakers/headphones to enjoy audio on your favorite devices. Or simply pair your phone with Echo Dot and use it as a Bluetooth speaker</span></li>
+<li><span class="a-list-item">Get started with Smart home: It is simple to make your home smart and use voice to control lights, ACs, TVs, geysers, water motors and more</span></li>
+<li><span class="a-list-item">Voice makes everything simple: Just ask Alexa to easily pay your bills, get news, weather, cricket scores, nursery rhymes and stories!</span></li>
+<li><span class="a-list-item">Designed to protect your privacy – comes with a microphone off button that electronically disconnects the microphones.</span></li>
+<li><span class="a-list-item">With 4 microphones, Alexa can hear your request from across the room.</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://udayraj-mathane.github.io/Retailsy/product/wireless-speaker/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shooting &#8211; Retailsy</title>
+	<atom:link href="https://udayraj-mathane.github.io/Retailsy/product-tag/shooting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://udayraj-mathane.github.io/Retailsy</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Oct 2023 05:44:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://udayraj-mathane.github.io/Retailsy/wp-content/uploads/2023/10/footerlogo-1.png</url>
+	<title>Shooting &#8211; Retailsy</title>
+	<link>https://udayraj-mathane.github.io/Retailsy</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Camera</title>
+		<link>https://udayraj-mathane.github.io/Retailsy/product/camera/</link>
+					<comments>https://udayraj-mathane.github.io/Retailsy/product/camera/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 05:42:48 +0000</pubDate>
+				<guid isPermaLink="false">https://udayraj-mathane.github.io/Retailsy/?post_type=product#038;p=235</guid>
+
+					<description><![CDATA[Description 1 year international + 1 year local India warranty. For 1 Year extended warranty please visit gopro.luxurypersonified.co.in . Toll-free number for any assistance-1800111776 Revolutionary Processor: Faster. Smoother. Better. The]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">1 year international + 1 year local India warranty. For 1 Year extended warranty please visit gopro.luxurypersonified.co.in . Toll-free number for any assistance-1800111776</span></li>
+<li><span class="a-list-item">Revolutionary Processor: Faster. Smoother. Better. The powerful new GP2 engine changes the game—snappy performance, responsive touch controls and double the frame rate for amazingly smooth footage. Designed specifically for the demanding nature of the GoPro, the GP2 “system on a chip” is by far our fastest ever.</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://udayraj-mathane.github.io/Retailsy/product/camera/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
